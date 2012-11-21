@@ -1,0 +1,9 @@
+# jenkins-nrepl
+
+inject nrepl in to jenkins
+
+## License
+
+Copyright (C) 2012 Kevin Downey
+
+Distributed under the Eclipse Public License, the same as Clojure.
